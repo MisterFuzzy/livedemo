@@ -1,0 +1,13 @@
+en git bash
+simple command 
+		'git --versio-- n'
+config user
+		'git config --list'
+		'git config --global user.name "Tony Palomo"'
+		'git config --global user.email "t.m.palomo@gmail.com"'
+		
+config text editor check && change to vim		
+		
+		'git config core.editor'
+		'git config --global core.editor "vim"'
+		'git config --list'
