@@ -1,4 +1,4 @@
-en git bash
+open git bash
 simple command 
 		'git --versio-- n'
 config user
